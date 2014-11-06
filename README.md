@@ -4,6 +4,7 @@ tic tac toe
 C programming per il gioco forza4 (tic tac toe)
 
  * Forza4.c include regole.h include servizi.h
+
  Gioco Forza 4 in cui lo scopo e' quello di allineare 4 segni uguali verticalmente, orizzontalmente o in obliquo
  Si e' scelto di utilizzare main come funzione per mantenere lo standard ANSI C. Si' escelto anche di utilizzare 
  una matrice quadrata e di dimensione variabile, aumentando la dimensione della matrice all'aumentare del livello
