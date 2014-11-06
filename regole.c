@@ -1,6 +1,5 @@
 /* 
  * Forza4.c
- * Luca Testoni matricola 820410
  * Header regole.h.h
  */
 
